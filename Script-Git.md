@@ -341,3 +341,9 @@ index 43ba69f..53e40bf 100644
 +
 +
 +Goustou do curso? Quer mais? Ajude com uma doação, até um café vale!!
+
+
+// Script a partir da aula 11
+// git reset --soft = Desfaz o commit e deixa o arquivo no staged pronto pra commita de novo
+// git reset --mixed = Desfaz o commit e volta o arquivo pra antes do staged (modified)
+// git reset --hard = Ignora a existencia do commit e tudo oq foi feito nele
